@@ -1,0 +1,7 @@
+res://Scenes/game.tscn
+res://Scenes/player.tscn
+res://Scenes/coin_yellow.tscn
+res://Scenes/slime_purple.tscn
+res://Scenes/slime_green.tscn
+res://Scenes/killzone.tscn
+res://Scripts/player.gd
